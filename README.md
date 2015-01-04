@@ -8,7 +8,7 @@ Dictionary([attributes])
 The `Dictionary` constructor can accept an optional object to set as its initial attributes. The Dictionary is used to manage instance `attributes` with the following API:
 
 ### has(key)
-	Returns boolean value of the existence of `key`.
+  Returns boolean value of the existence of `key`.
 ### get(key)
   Returns the attribute associated with `key`.
 ### set(obj) 
