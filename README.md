@@ -14,7 +14,7 @@ The `Dictionary` constructor can accept an optional object to set as its initial
   Returns the value associated with `key`.
   
 ### set(obj) 
-  Supply `set` with an object to have each `{key: value} pair inserted in the dictionary. Returns `this`.
+  Supply `set` with an object to have each `{key: value}` pair inserted in the dictionary. Returns `this`.
   
 ### set(key, value)
   Supply `set` with a `key, value` pair for it to be inserted in the dictionary. Returns `this`.
