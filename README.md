@@ -19,7 +19,7 @@ The `Dictionary` constructor can accept an optional object to set as its initial
 ### set(key, value)
   Supply `set` with a `key, value` pair for it to be inserted in the dictionary. Returns `this`.
   
-## delete(key)
+### delete(key)
   Removes the the key, value pair associated with `key`. Returns `this`.
 	
 ### extend(obj)
