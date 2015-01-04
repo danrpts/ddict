@@ -31,3 +31,5 @@ Dictionary.prototype.set = function () {
 Dictionary.prototype.toString = function () {
 	return JSON.stringify(this.attributes);
 }
+
+module.exports = Dictionary;
