@@ -1,7 +1,7 @@
 ddict
 =====
 
-A lightweight and extendible dictionary object written in Javascript.
+A lightweight and extendable dictionary object written in Javascript.
 
 Dictionary([attributes])
 ---
