@@ -1,4 +1,4 @@
-ddict
+ddict (untested)
 =====
 
 A lightweight and extendable dictionary object written in Javascript.
